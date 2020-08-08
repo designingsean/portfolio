@@ -1,9 +1,36 @@
 ---
 layout: post
-title:  "Job Setup"
+title:  "Improving the Funnel Conversion on Job Setup"
 date:   2020-07-28 08:55:27 -0400
+highlight_image: ''
 ---
 # Improving the Funnel Conversion on Job Setup
+
+INTRO
+
+## Background
+
+
+
+## Problem
+
+
+
+## Solution
+
+
+
+## Results
+
+
+
+## Missed Opportunities
+
+
+
+## Summary
+
+
 
 - Existing funnel completion was around 25%
 - A lot of information needed on the first screen, wasn’t well organized

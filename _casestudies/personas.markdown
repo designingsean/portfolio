@@ -2,8 +2,33 @@
 layout: post
 title:  "Personas"
 date:   2020-07-28 08:55:27 -0400
+highlight_image: ''
 ---
 # Personas
+
+INTRO
+
+## Background
+
+
+
+## Problem
+
+
+
+## Solution
+
+
+
+## Results
+
+
+
+## Missed Opportunities
+
+
+
+## Summary
 
 - The Manhattan Project for Hireology
 - Knowing what we know now, what would we build?
