@@ -1,0 +1,16 @@
+---
+---
+#social {
+  a {
+    svg {
+      height: 16px;
+      width: 16px;
+    }
+  }
+}
+#site, #social {
+  a {
+    display: inline-block;
+    padding: 5px 10px;
+  }
+}
