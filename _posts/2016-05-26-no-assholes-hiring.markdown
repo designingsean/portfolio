@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  No Assholes Hiring
+description: '&ldquo;No Assholes&rdquo; Hiring - How to ensure you hire great employees.'
 date:   2016-05-26 08:55:27 -0400
+image: assets/images/posts/noassholes-1.jpg
 categories: hiring hireology
 ---
 ![Sign with the word "DONKEYS" printed on it and an arrow pointing to the left.](../assets/images/thoughts/noassholes-1.jpg)

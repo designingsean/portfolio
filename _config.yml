@@ -39,6 +39,3 @@ collections:
   casestudies:
     output: true
     permalink: /:collection/:name
-  thoughts:
-    output: true
-    permalink: /:collection/:name
