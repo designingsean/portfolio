@@ -1,16 +1,13 @@
 ---
 layout: post
-title:  No Assholes Hiring
+title:  '&ldquo;No Assholes&rdquo; Hiring'
 description: '&ldquo;No Assholes&rdquo; Hiring - How to ensure you hire great employees.'
 date:   2016-05-26 08:55:27 -0400
 image: assets/images/posts/noassholes-1.jpg
-categories: hiring hireology
+tags: hiring hireology
 ---
-![Sign with the word "DONKEYS" printed on it and an arrow pointing to the left.](../assets/images/thoughts/noassholes-1.jpg)
+![Sign with the word "DONKEYS" printed on it and an arrow pointing to the left.](/assets/images/posts/noassholes-1.jpg)
 _Photo by [Darren Coleshill](https://unsplash.com/photos/ca0MNGXWjuQ?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)_
-
-# &ldquo;No Assholes&rdquo; Hiring
-## How to ensure you hire great employees
 
 Hireology has five core values. They are, in no particular order: Eager to Improve, Own the Result, Create WOW Moments, Pathological Optimism, and No Assholes.
 
