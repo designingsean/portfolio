@@ -8,6 +8,6 @@ author: null
 show_tile: false
 ---
 
-I am a husband, father, casual gamer, puzzle maker, music lover, and UX professional.
+I am a husband, father, casual gamer, puzzle assembler, Disney aficionado, music lover, and UX professional.
 
 I believe that family should always come first, teaching is the best way to learn, and the best ideas usually show up in the shower.
