@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: study
 title:  'Donut'
 description: 'Using a Donut to How Explain Psychology Could &ldquo;Predict Success&rdquo;'
 date: 2020-07-28 08:55:27 -0400
 image: ''
 ---
-# Using a Donut to How Explain Psychology Could &ldquo;Predict Success&rdquo;
-
 One of the things that drew me to Hireology in the beginning was the idea that that you could "predict success".  The original software was built around this idea, and was very prescriptive about what you should ask a candidate during interviews.
 
 ## Background

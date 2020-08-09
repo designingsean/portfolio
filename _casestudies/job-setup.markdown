@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: study
 title:  'Job Setup'
 description: 'Improving the Funnel Conversion When Opening a Job'
 date: 2020-07-28 08:55:27 -0400
 image: ''
 ---
-# Improving the Funnel Conversion When Opening a Job
-
 INTRO
 
 ## Background
