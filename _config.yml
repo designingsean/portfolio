@@ -1,60 +1,39 @@
-# Gems
-plugins:
-  - jekyll-gist
-  - jekyll-seo-tag
+# site settings
+title: Portfolio
+subtitle: of Sean Ryan
+email: designingsean@gmail.com
+description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: # the base hostname & protocol for your site
+author:
+street_address: 1234 Somewhere Road
+city: Nashville
+state: TN
+zip_code: 55555
+country: United States of America
+phone: (716) 555-5555
 
-# Optimize Jekyll
-exclude:
-  - .editorconfig
-  - .git
-  - .jekyll-cache
-  - Gemfile
-  - Gemfile.lock
-  - LICENSE.md
-  - README.md
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 6
+
+# social settings
+# 500px_url:
+# facebook_url:
+github_url: https://github.com/designingsean
+# gitlab_url: https://gitlab.com/andrewbanchich
+# googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
+# instagram_url: https://instagram.com
+linkedin_url: https://www.linkedin.com/in/designingsean
+# pinterest_url:
+# slack_url:
+# twitter_url: https://twitter.com/andrewbanchich
+
+# build settings
+markdown: kramdown
 
 sass:
-  sass_dir: _sass
-  style: :compressed
-
-# Options
-
-# Replace this value and uncomment to enable Google Analytics tracking
-# ga_analytics: UA-000000-0
-
-# Specify the author for blog posts
-author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
-
-# Custom vars
-version: 3.0.0
-
-# Dependencies
-# markdown:         redcarpet
-# highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-# relative_permalinks: true
-
-# Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
-baseurl:          ''
-
-author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
+  style: compressed
 
 collections:
   casestudies:

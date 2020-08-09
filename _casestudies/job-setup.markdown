@@ -14,7 +14,7 @@ INTRO
 
 ## Problem
 
-The issue we were seeing was that only about 20 to 25% of users who started opening a job would get all the way through the process. By and large, they would fall off in the first few steps, which were about providing details about the job and the job&rsquo;s description.
+The issue we were seeing was that only about 20 to 25% of users who started opening a job would get all the way through the process without dropping off along the way. By and large, they would fall off in the first few steps, which were about providing details about the job and the job&rsquo;s description.
 
 IMAGE OF FIRST SCREEN
 
@@ -53,10 +53,3 @@ While I do not have any numbers to back it up, I believe that had we been able t
 ## Summary
 
 Simple changes can have a huge positive impact. It can be tough to believe if you are not in the user experience field. It can sometimes be easy to forget if you are. 
-
-- Existing funnel completion was around 25%
-- A lot of information needed on the first screen, wasn’t well organized
-- Navigation was cumbersome, back and next coupled with next steps
-- Moved to one thought per screen
-- Separated navigation from “where you are”
-- Funnel moved up to around 80% completion
