@@ -19,11 +19,13 @@
                 <h1>{{ page.landing-title }}</h1>
             </header>
             <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
-                <ul class="actions">
-                    <li><a href="#one" class="button next scrolly">Get Started</a></li>
-                </ul>
+                {{ content }}
             </div>
+            <footer>
+                <ul class="actions">
+                    <li><a href="about.html" class="button next">Learn more</a></li>
+                </ul>
+            </footer>
         </div>
     </section>
 
@@ -36,13 +38,16 @@
         <!-- Two -->
         <section id="two">
             <div class="inner">
+                {% for post in site.posts %}
+                {% if post.title != 404 %}
                 <header class="major">
-                    <h2>Massa libero</h2>
+                  <h3>{{ post.title }}</h3>
                 </header>
-                <p>{{ content }}</p>
-                <ul class="actions">
-                    <li><a href="landing.html" class="button next">Get Started</a></li>
-                </ul>
+                {% if post.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ post.image }}" alt="" /></span>{% endif %}
+                {% if post.date %}<p>{{ post.date }}</p>{% endif %}
+                <p>{{ post.description }}</p>
+                {% endif %}
+                {% endfor %}
             </div>
         </section>
 

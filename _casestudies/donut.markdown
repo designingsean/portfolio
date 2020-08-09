@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  'Using a Donut to How Explain Psychology Could "Predict Success"'
-date:   2020-07-28 08:55:27 -0400
-highlight_image: ''
+title:  'Donut'
+description: 'Using a Donut to How Explain Psychology Could &ldquo;Predict Success&rdquo;'
+date: 2020-07-28 08:55:27 -0400
+image: ''
 ---
 # Using a Donut to How Explain Psychology Could &ldquo;Predict Success&rdquo;
 
