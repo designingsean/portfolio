@@ -1,7 +1,7 @@
 ---
 layout: study
 title:  'Donut'
-description: 'Using a Donut to How Explain Psychology Could &ldquo;Predict Success&rdquo;'
+description: 'Using a Donut to Explain How Psychology Could &ldquo;Predict Success&rdquo;'
 date: 2020-07-28 08:55:27 -0400
 image: ''
 ---
