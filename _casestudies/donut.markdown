@@ -3,7 +3,7 @@ layout: study
 title:  'Donut'
 description: 'Using a Donut to Explain How Psychology Could &ldquo;Predict Success&rdquo;'
 date: 2020-07-28 08:55:27 -0400
-image: ''
+image: '/assets/images/casestudies/donut-6.png'
 ---
 One of the things that drew me to Hireology in the beginning was the idea that that you could "predict success".  The original software was built around this idea, and was very prescriptive about what you should ask a candidate during interviews.
 
@@ -33,8 +33,6 @@ Second, I didn't feel that the radial charts above were immediately intuitive. R
 
 ## Solution
 
-Enter the &ldquo;donut&rdquo;.
-
 I started with how to represent which competencies were more important to a job than others. I quickly settled on a pie chart, as I felt it did a great job of meeting that objective while also being more familiar to the user than a radial.
 
 PIE CHART OF JOB vs RADIAL
@@ -47,7 +45,7 @@ COLORED PIE CHART
 
 Finally, there was a score, which was what the user was used to seeing now when they completed an interview. To help connect the score to this new chart, I wanted them to appear as tightly coupled as possible. And so, we carved out the center of the pie chart to drop the score into, and found ourselves with the donut.
 
-DONUT
+![](/assets/images/casestudies/donut-5.png)
 
 ## Results
 
@@ -61,7 +59,7 @@ We had intended to allow users to be able to see the donut as they completed job
 
 In addition, we had planned to roll out an upgraded version of the donut that would reveal which questions were part of which competency, and see how the overall score was being influenced by the answers to those questions.
 
-OTHER DONUT
+![](/assets/images/casestudies/donut-6.png)
 
 There was some debate on this implementation, as there was concern that this would allow hiring managers to game the interview in order to present a candidate as a better fit than they actually were.
 
