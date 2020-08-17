@@ -5,19 +5,16 @@ description: 'Using a Donut to Explain How Psychology Could &ldquo;Predict Succe
 date: 2020-07-28 08:55:27 -0400
 image: '/assets/images/casestudies/donut-6.png'
 ---
-One of the things that drew me to Hireology in the beginning was the idea that that you could "predict success".  The original software was built around this idea, and was very prescriptive about what you should ask a candidate during interviews.
 
 ## Background
+
+One of the things that drew me to Hireology in the beginning was the idea that that you could &ldquo;predict success&rdquo;.  The original software was built around this idea, and was very prescriptive about what you should ask a candidate during interviews.
 
 Of course, every job is different, and so the system needed to know the details of the job you were wanting to hire for so it could understand how to find the best hire. So when a hiring manager went to open a job, they were prompted with a 35 true/false questionnaire to complete, and then the job would be open and ready for people to apply.
 
 Behind the scenes, the questions were attached to 67 &ldquo;elements of success&rdquo; which&mdash;when grouped together&mdash;identified which competencies were important to a job and which were not. This effectively meant that the job had a shape, if you will, when plotted on a radial chart:
 
-RADIAL CHART OF JOB
-
 The interviews questions were then generated to help find a candidate that best matched the shape of the job. The more aligned the shape of the candidate is to the shape of the job, the more likely the candidate would be successful.
-
-RADIAL CHART OF JOB + CANDIDATE
 
 ## Problem
 
@@ -35,13 +32,9 @@ Second, I didn't feel that the radial charts above were immediately intuitive. R
 
 I started with how to represent which competencies were more important to a job than others. I quickly settled on a pie chart, as I felt it did a great job of meeting that objective while also being more familiar to the user than a radial.
 
-PIE CHART OF JOB vs RADIAL
-
 So now we are communicating which competencies are important to a job. The next piece was how to help the user understand how the candidate they just interviewed was aligning with this particular job. Each question in an interview tied back to one of the competencies, and was scored on a simple scale of great, good, OK, and poor. 
 
 This is where the color of each wedge came in. Normally, the colors are used just to help someone see the individual slices more easily. In this case, though, we associated each of the possible answers to a color - green for great, red for poor, etc - and then applied those colors to each of the competencies.
-
-COLORED PIE CHART
 
 Finally, there was a score, which was what the user was used to seeing now when they completed an interview. To help connect the score to this new chart, I wanted them to appear as tightly coupled as possible. And so, we carved out the center of the pie chart to drop the score into, and found ourselves with the donut.
 
