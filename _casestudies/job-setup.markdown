@@ -3,25 +3,16 @@ layout: study
 title:  'Job Setup'
 description: 'Improving the Funnel Conversion When Opening a Job'
 date: 2020-07-28 08:55:27 -0400
-image: ''
+image: '/assets/images/casestudies/job-setup-0.png'
 ---
-INTRO
-
-## Background
-
-
 
 ## Problem
 
 The issue we were seeing was that only about 20 to 25% of users who started opening a job would get all the way through the process without dropping off along the way. By and large, they would fall off in the first few steps, which were about providing details about the job and the job&rsquo;s description.
 
-IMAGE OF FIRST SCREEN
-
 The first page in particular was packed with various information that we needed to open a job. However, the organization of that information was a mess. Essentially, we were trying to do too much with one screen.
 
 In addition, the navigation was anchored at the bottom and took up nearly 1/5 of the page. Coupled with the header, it left very little real estate for users to be able to see much less understand what the process required.
-
-IMAGE OF OLD NAV
 
 ## Solution
 
@@ -29,11 +20,9 @@ Let&rsquo;s work backwards on this one. The first issue that needed to be resolv
 
 By looking at existing checkout patterns, we were able to create a navigation that was more effective while taking up significantly less room on the page. We also separated the &ldquo;Back&rdquo; and &ldquo;Next&rdquo; buttons from the navigation, allowing them to continue to live at the bottom of each page.
 
-IMAGE OF NEW NAV
-
 The second and bigger issue was that there was just too much being asked for on the initial screens. To solve this, we approached it with the "One Thing Per Page" approach, reasoning that people would be more willing to complete more pages if they were shorter and more organized.
 
-IMAGE OF NEW PAGE
+![](/assets/images/casestudies/job-setup-4.png)
 
 ## Results
 
@@ -42,8 +31,6 @@ We rolled this feature out slowly, launching it with selected existing customers
 To be honest, we were stunned by this result. I assumed there would be a lift in the conversion, but certainly nothing at this scale. I double and triple checked how the elements were set up in our analytics suite to be sure we were tracking appropriately.
 
 In the end, everything was correct. We rolled out the improvements to our entire customer base, and saw the funnel complete even higher, settling in at over 80%.
-
-FUNNEL CHARTS?
 
 What is interesting is that the overall number of open jobs has not increased by the same rate. It has gone up for certain, but not by the amount that it should have by improving a funnel conversion rate by more than 70 points. Based on my analysis, I believe what we are seeing is more users being able to complete the funnel without quitting and coming back to it later.
 
