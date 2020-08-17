@@ -24,4 +24,4 @@ sass:
 collections:
   casestudies:
     output: true
-    permalink: /:collection/:name
+    permalink: /:collection/:name.html
