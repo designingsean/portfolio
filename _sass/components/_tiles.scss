@@ -90,11 +90,11 @@
 				z-index: 1;
 			}
 
-			&:hover {
-				&:before {
-					opacity: 0;
-				}
-			}
+			// &:hover {
+			// 	&:before {
+			// 		opacity: 0;
+			// 	}
+			// }
 
 			&.is-transitioning {
 				@include vendor('transform', 'scale(0.95)');
