@@ -1,37 +1,13 @@
 ---
 layout: study
-title:  "Personas"
-date:   2020-07-28 08:55:27 -0400
-highlight_image: ''
+title:  'Personas'
+description: 'Developing a company-wide vocabulary for talking about our customer'
+date: 2020-07-28 08:55:27 -0400
+image: ''
 ---
-# Personas Title
 
-INTRO
+Back in 2015, CEO Adam Robinson challenged the the VP of Product and the UX team with a simple question: Knowing what we know now about our customer and our product, what we build differently?
 
-## Background
-
-
-
-## Problem
-
-
-
-## Solution
-
-
-
-## Results
-
-
-
-## Missed Opportunities
-
-
-
-## Summary
-
-- The Manhattan Project for Hireology
-- Knowing what we know now, what would we build?
 - Small team put in a room, began building outline of tasks different users complete
     - Identify overlap between users
     - Moment of communication between users
