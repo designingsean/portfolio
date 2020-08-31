@@ -37,7 +37,8 @@
 
         <!-- Two -->
         <section id="two" class="spotlights">
-            {% for post in site.posts %}
+            {% assign spotlights = site.posts | where_exp: "item", "item.highlight == false" %}
+            {% for post in spotlights %}
             {% if post.title != 404 %}
             <section>
                 {% if post.image %}<a href="{{ post.url  | relative_url }}" class="image">

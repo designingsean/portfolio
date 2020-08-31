@@ -1,10 +1,7 @@
-{% assign tiles = site.casestudies %}
+{% assign tiles = site.posts | where_exp: "item", "item.highlight == true" | sort: 'date' %}
 <section id="one" class="tiles">
   {% for tile in tiles limit:site.tiles-count %}
   <article>
-    <span class="image">
-      <img src="{{ tile.image }}" alt="" />
-    </span>
     <header class="major">
       <h3><a href="{{ tile.url  | relative_url }}" class="link">{{ tile.title }}</a></h3>
       <p>{{ tile.description }}</p>

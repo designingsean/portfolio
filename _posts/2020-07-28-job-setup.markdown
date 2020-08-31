@@ -1,9 +1,11 @@
 ---
-layout: study
+layout: post
 title:  'Job Setup'
 description: 'Improving the Funnel Conversion When Opening a Job'
 date: 2020-07-28 08:55:27 -0400
-image: ''
+image: 'assets/images/job-setup-4.png'
+tags: feature
+highlight: true
 ---
 
 ## Background
@@ -28,7 +30,7 @@ By looking at existing checkout patterns, we were able to create a navigation th
 
 The second and bigger issue was that there was just too much being asked for on the initial screens. To solve this, we approached it with the "One Thing Per Page" approach, reasoning that people would be more willing to complete more pages if they were shorter and more organized.
 
-![](/assets/images/casestudies/job-setup-4.png)
+![](/assets/images/job-setup-4.png)
 
 ## Results
 

@@ -8,7 +8,7 @@ url: # the base hostname & protocol for your site
 author:
 
 # homepage tiles
-tiles-source: pages # accepts "posts" or "pages"
+tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 3
 
 # social setting
@@ -20,8 +20,3 @@ markdown: kramdown
 
 sass:
   style: compressed
-
-collections:
-  casestudies:
-    output: true
-    permalink: /:collection/:name.html

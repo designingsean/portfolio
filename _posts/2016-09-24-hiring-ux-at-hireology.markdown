@@ -3,12 +3,13 @@ layout: post
 title:  Hiring UX at Hireology
 description: In one of the Slack communities I spend some time with, someone recently asked the questions below about how companies hire. I thought the answers would make a nice post, so here we are.
 date: 2016-09-24 08:55:27 -0400
-image: assets/images/posts/hiringux-1.jpg
+image: assets/images/hiringux-1.jpg
 tags: hiring hireology
+highlight: false
 ---
 In one of the Slack communities I spend some time with, someone recently asked the questions below about how companies hire. I thought the answers would make a nice post, so here we are. I’ll be focusing on hiring for our UX Designer role, but the process for Front End Engineers or User Researchers is essentially the same.
 
-![Image of an interstate interchage from above](/assets/images/posts/hiringux-1.jpg)
+![Image of an interstate interchage from above](/assets/images/hiringux-1.jpg)
 _Photo by [Denys Nevozhai](https://unsplash.com/photos/7nrsVjvALnA?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)_
 
 ## What is your process like when looking for a new hire?
@@ -33,7 +34,7 @@ Finally, our CEO has spoken to every single hire we have ever made. And he has v
 
 As we are a hiring platform, we use our own platform to manage the process. We try to include as many team members as possible when it makes sense. I believe we use Zenefits to extend offer and onboard. For all UX roles, I have found Authentic Jobs to be the only source we need to get great applicant flow.
 
-![Two people sitting at a table.](/assets/images/posts/hiringux-2.jpg)
+![Two people sitting at a table.](/assets/images/hiringux-2.jpg)
 _Photo by [Nik MacMillan](https://unsplash.com/photos/YXemfQiPR_E?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)_
 
 ## What pain points do you encounter when trying to find a new hire?
@@ -50,7 +51,7 @@ For a designer position, I am also looking for a link to a “portfolio,” thou
 
 Third…not sure honestly. Though we are remote, we can only hire people based in the US, so checking that is always important.
 
-![A table and two chairs as viewed from the side](/assets/images/posts/hiringux-3.jpg)
+![A table and two chairs as viewed from the side](/assets/images/hiringux-3.jpg)
 _Photo by [Steve Halama](https://unsplash.com/photos/NPKk_3ZK2DY?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)_
 
 ## What are the 3 most important things for you to know about the person you are hiring?
