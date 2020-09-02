@@ -10,7 +10,7 @@ highlight: false
 
 It has been seven years since I have looked for a job. Back then, I had no real management experience, and was still actively designing and coding interfaces. So when searching, I knew the value of having a portfolio of my work (Behance for design, GitHub for code). After all, they helped me land a job as a Front End Engineer (and essentially Lead UX Designer) at Hireology.
 
-## My work is not doing but managing
+## My work is not doing, it is helping others do
 
 ![Cupped hands holding a lit lightbulb](/assets/images/design-management-1.jpg)
 _Photo by [Riccardo Annandale](https://unsplash.com/photos/7e2pe9wjL9M?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)_
@@ -25,7 +25,7 @@ In my 20+ years of working in corporate America, it has been very obvious to me 
 
  Which is probably why I was caught off guard by just how many &ldquo;UX Manager&rdquo; type of positions I found that require a portfolio of your design work.
 
-## My thoughts on what makes a great design manager
+## What makes a great (design) manager
 
  A great manager is someone who knows how to hire. They know how to build a hiring process that will be fair to the applicant while also helping the team identify the best person for the job.
 
@@ -38,6 +38,9 @@ In my 20+ years of working in corporate America, it has been very obvious to me 
  A great manager is all of these things and more. And none of these things will be found in a design portfolio.
 
 ## My &ldquo;portfolio&rdquo; is my team
+
+![A series of lightbulbs - some lit - hanging from a ceiling](/assets/images/design-management-2.jpg)
+_Photo by [Diz Play](https://unsplash.com/photos/PIrOQrqewLE?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)_
 
  To be clear, I am not saying that I am &ldquo;great manager&rdquo;. While I believe in all of the things above, and I think I am pretty good at some of them, I will be the first to admit that I have plenty of room to improve. I am still learning. I am still making mistakes. I am still trying to grow. Indeed, I know there is an enormous mountain of learning in front me.
 
