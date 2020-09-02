@@ -25,7 +25,7 @@ In my 20+ years of working in corporate America, it has been very obvious to me 
 
  Which is probably why I was caught off guard by just how many &ldquo;UX Manager&rdquo; type of positions I found that require a portfolio of your design work.
 
- ## My thoughts on what makes a great design manager
+## My thoughts on what makes a great design manager
 
  A great manager is someone who knows how to hire. They know how to build a hiring process that will be fair to the applicant while also helping the team identify the best person for the job.
 
@@ -37,7 +37,7 @@ In my 20+ years of working in corporate America, it has been very obvious to me 
 
  A great manager is all of these things and more. And none of these things will be found in a design portfolio.
 
- ## My &ldquo;portfolio&ldquo; is my team
+## My &ldquo;portfolio&rdquo; is my team
 
  To be clear, I am not saying that I am &ldquo;great manager&rdquo;. While I believe in all of the things above, and I think I am pretty good at some of them, I will be the first to admit that I have plenty of room to improve. I am still learning. I am still making mistakes. I am still trying to grow. Indeed, I know there is an enormous mountain of learning in front me.
 
