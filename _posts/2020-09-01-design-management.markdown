@@ -10,10 +10,10 @@ highlight: false
 
 It has been seven years since I have looked for a job. Back then, I had no real management experience, and was still actively designing and coding interfaces. So when searching, I knew the value of having a portfolio of my work (Behance for design, GitHub for code). After all, they helped me land a job as a Front End Engineer (and essentially Lead UX Designer) at Hireology.
 
-## My work is not doing, it is helping others do
-
 ![Cupped hands holding a lit lightbulb](/assets/images/design-management-1.jpg)
 _Photo by [Riccardo Annandale](https://unsplash.com/photos/7e2pe9wjL9M?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)_
+
+## My work is not designing
 
 For the last six years, I have been building and managing a team of UX Designers, User Researchers, and for a little while Front End Engineers as the head of our User Experience department. Throughout that time, my management and leadership skills have grown, while my skills in building designs in Figma or writing javascript have declined.
 
