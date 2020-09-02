@@ -1,5 +1,5 @@
 ---
-layout: study
+layout: post
 title:  'Personas'
 description: 'Developing a company-wide vocabulary for talking about our customer'
 date: 2020-08-30 23:50:27 -0400
@@ -8,7 +8,11 @@ tags: feature
 highlight: true
 ---
 
-Back in 2015, CEO Adam Robinson challenged the the VP of Product and the UX team with a simple question: Knowing what we know now about our customer and our product, what we build differently?
+Back in the fall of 2015, Hireology CEO Adam Robinson challenged the VP of Product and the UX team with a simple question: Knowing what we know now about our customer and how they use the product, what we build differently?
+
+So the UX team flew to Chicago, got together in a small room with our Product VP at the local tech incubator, and set to work figuring out who are existing users were and what they were doing.
+
+Over the course of several hours, we were able to map out four main users, the tasks they wanted to accomplish, and the moments where these individual users may want to be able to communicate with each other.
 
 - Small team put in a room, began building outline of tasks different users complete
     - Identify overlap between users
