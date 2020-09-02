@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  'Job Setup'
-description: 'Improving the Funnel Conversion When Opening a Job'
+description: 'Improving the funnel conversion when opening a job'
 date: 2020-07-28 08:55:27 -0400
 image: 'assets/images/job-setup-4.png'
 tags: feature
