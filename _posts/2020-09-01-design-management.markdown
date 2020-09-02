@@ -37,10 +37,10 @@ In my 20+ years of working in corporate America, it has been very obvious to me 
 
  A great manager is all of these things and more. And none of these things will be found in a design portfolio.
 
-## My &ldquo;portfolio&rdquo; is my team
-
-![A series of lightbulbs - some lit - hanging from a ceiling](/assets/images/design-management-2.jpg)
+ ![A series of lightbulbs - some lit - hanging from a ceiling](/assets/images/design-management-2.jpg)
 _Photo by [Diz Play](https://unsplash.com/photos/PIrOQrqewLE?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) on [Unsplash](https://unsplash.com/?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)_
+
+## My &ldquo;portfolio&rdquo; is my team
 
  To be clear, I am not saying that I am &ldquo;great manager&rdquo;. While I believe in all of the things above, and I think I am pretty good at some of them, I will be the first to admit that I have plenty of room to improve. I am still learning. I am still making mistakes. I am still trying to grow. Indeed, I know there is an enormous mountain of learning in front me.
 
