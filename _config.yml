@@ -4,8 +4,8 @@ subtitle: Portfolio and Blog
 email: designingsean@gmail.com
 description: ''
 baseurl: '' # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
+url: https://designingsean.com # the base hostname & protocol for your site
+author: Sean Ryan
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
