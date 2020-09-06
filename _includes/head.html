@@ -15,4 +15,8 @@
 	<meta property="og:url" content="{{ page.url | absolute_url }}">
 	<meta name="twitter:card" content="summary_large_image">
 	<meta property="og:site_name" content="{{ site.title }} | {{ site.subtitle }}">
+
+	{% if jekyll.environment == 'production' %}
+	{% include analytics.html %}
+	{% endif %}
 </head>
