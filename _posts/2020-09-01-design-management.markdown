@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  'Design Management, Part 1'
+title:  'Design Management'
 description: 'Management is a completely different set of skills from being an individual contributor. So why do we expect great managers to have been and still be great designers?'
 date: 2020-09-01 08:50:27 -0400
 image: 'assets/images/design-management-1.jpg'
