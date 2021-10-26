@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  'Personas'
-description: 'Developing a company-wide vocabulary for talking about our customer'
+title:  'Everyone Knows Ida'
+description: 'Developing a company-wide vocabulary for talking about our customers'
 date: 2020-08-30 23:50:27 -0400
-image: ''
+image: 'assets/images/personas-5.jpg'
 tags: feature
-highlight: true
+highlight: false
 ---
 
 ## Introduction
